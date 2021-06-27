@@ -1,1 +1,1 @@
-# evernote-clone-with-firebase-react
+# photo-gallery-with-firebase-react
